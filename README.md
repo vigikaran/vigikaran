@@ -8,7 +8,7 @@ Accomplished and accountable TypeScript, PHP Developer with a consistent record 
 
 * 🌍  I'm based in London, United Kingdom
 * ✉️  You can contact me at [vigikaran.php@gmail.com](mailto:vigikaran.php@gmail.com)
-* 🚀  I'm currently working on [Elogs](http://www.elogs.co.uk)
+* 🚀  I'm currently working at [Elogs](http://www.elogs.co.uk)
 
 ### Skills
 
